@@ -48,4 +48,3 @@ This project successfully applies machine learning techniques to assess credit r
 
 ---
 
-For more queries, Connect with me at: urvashidube208@gmail.com
